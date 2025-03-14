@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "258251317965",
-    "project_id": "delivery-app-eee54",
-    "storage_bucket": "delivery-app-eee54.firebasestorage.app"
+    "project_number": "817766084219",
+    "project_id": "playground-36167",
+    "storage_bucket": "playground-36167.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:258251317965:android:347842abf7e60888ab7f84",
+        "mobilesdk_app_id": "1:817766084219:android:033506820891a6c0667cde",
         "android_client_info": {
           "package_name": "com.example.deliveryapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDso3dCoah3zVoTHFzz62sbF50xpjZ9nFY"
+          "current_key": "AIzaSyB_VSOxka-BCFSc-fKh_UBnHY3bQrjVuHU"
         }
       ],
       "services": {

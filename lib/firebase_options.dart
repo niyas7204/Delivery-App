@@ -41,48 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA1yu3L5SwirpZl5MdUI1w88OM3WchyPQU',
-    appId: '1:258251317965:web:7ddbc124059b4b38ab7f84',
-    messagingSenderId: '258251317965',
-    projectId: 'delivery-app-eee54',
-    authDomain: 'delivery-app-eee54.firebaseapp.com',
-    storageBucket: 'delivery-app-eee54.firebasestorage.app',
-    measurementId: 'G-9Q72E8WD9R',
+    apiKey: 'AIzaSyCCOs6maevvtSOAZfv5LKFZ_Kn9N9Jgs9o',
+    appId: '1:817766084219:web:f43db793085075c5667cde',
+    messagingSenderId: '817766084219',
+    projectId: 'playground-36167',
+    authDomain: 'playground-36167.firebaseapp.com',
+    storageBucket: 'playground-36167.firebasestorage.app',
+    measurementId: 'G-P33Z4TDM45',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDso3dCoah3zVoTHFzz62sbF50xpjZ9nFY',
-    appId: '1:258251317965:android:347842abf7e60888ab7f84',
-    messagingSenderId: '258251317965',
-    projectId: 'delivery-app-eee54',
-    storageBucket: 'delivery-app-eee54.firebasestorage.app',
+    apiKey: 'AIzaSyB_VSOxka-BCFSc-fKh_UBnHY3bQrjVuHU',
+    appId: '1:817766084219:android:033506820891a6c0667cde',
+    messagingSenderId: '817766084219',
+    projectId: 'playground-36167',
+    storageBucket: 'playground-36167.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDhZf8bTY2dno-OiFGwsyhNnRL35sOlBZw',
-    appId: '1:258251317965:ios:3485e26471622063ab7f84',
-    messagingSenderId: '258251317965',
-    projectId: 'delivery-app-eee54',
-    storageBucket: 'delivery-app-eee54.firebasestorage.app',
+    apiKey: 'AIzaSyDbhB4ShkVHAIqG6tAH68yTyAQmZVK6TDo',
+    appId: '1:817766084219:ios:f5375a4b53dc0842667cde',
+    messagingSenderId: '817766084219',
+    projectId: 'playground-36167',
+    storageBucket: 'playground-36167.firebasestorage.app',
     iosBundleId: 'com.example.deliveryapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDhZf8bTY2dno-OiFGwsyhNnRL35sOlBZw',
-    appId: '1:258251317965:ios:3485e26471622063ab7f84',
-    messagingSenderId: '258251317965',
-    projectId: 'delivery-app-eee54',
-    storageBucket: 'delivery-app-eee54.firebasestorage.app',
+    apiKey: 'AIzaSyDbhB4ShkVHAIqG6tAH68yTyAQmZVK6TDo',
+    appId: '1:817766084219:ios:f5375a4b53dc0842667cde',
+    messagingSenderId: '817766084219',
+    projectId: 'playground-36167',
+    storageBucket: 'playground-36167.firebasestorage.app',
     iosBundleId: 'com.example.deliveryapp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA1yu3L5SwirpZl5MdUI1w88OM3WchyPQU',
-    appId: '1:258251317965:web:a16b2a3672aa05f9ab7f84',
-    messagingSenderId: '258251317965',
-    projectId: 'delivery-app-eee54',
-    authDomain: 'delivery-app-eee54.firebaseapp.com',
-    storageBucket: 'delivery-app-eee54.firebasestorage.app',
-    measurementId: 'G-LSEV4TK808',
+    apiKey: 'AIzaSyCCOs6maevvtSOAZfv5LKFZ_Kn9N9Jgs9o',
+    appId: '1:817766084219:web:8bb179a95ea46ee2667cde',
+    messagingSenderId: '817766084219',
+    projectId: 'playground-36167',
+    authDomain: 'playground-36167.firebaseapp.com',
+    storageBucket: 'playground-36167.firebasestorage.app',
+    measurementId: 'G-REWW432D93',
   );
+
 }
